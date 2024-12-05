@@ -1,0 +1,14 @@
+C:\Users\Iraz\source\repos\NovelGame\NovelGame\bin\Debug\net8.0\NovelGame.exe
+C:\Users\Iraz\source\repos\NovelGame\NovelGame\bin\Debug\net8.0\NovelGame.deps.json
+C:\Users\Iraz\source\repos\NovelGame\NovelGame\bin\Debug\net8.0\NovelGame.runtimeconfig.json
+C:\Users\Iraz\source\repos\NovelGame\NovelGame\bin\Debug\net8.0\NovelGame.dll
+C:\Users\Iraz\source\repos\NovelGame\NovelGame\bin\Debug\net8.0\NovelGame.pdb
+C:\Users\Iraz\source\repos\NovelGame\NovelGame\obj\Debug\net8.0\NovelGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iraz\source\repos\NovelGame\NovelGame\obj\Debug\net8.0\NovelGame.AssemblyInfoInputs.cache
+C:\Users\Iraz\source\repos\NovelGame\NovelGame\obj\Debug\net8.0\NovelGame.AssemblyInfo.cs
+C:\Users\Iraz\source\repos\NovelGame\NovelGame\obj\Debug\net8.0\NovelGame.csproj.CoreCompileInputs.cache
+C:\Users\Iraz\source\repos\NovelGame\NovelGame\obj\Debug\net8.0\NovelGame.dll
+C:\Users\Iraz\source\repos\NovelGame\NovelGame\obj\Debug\net8.0\refint\NovelGame.dll
+C:\Users\Iraz\source\repos\NovelGame\NovelGame\obj\Debug\net8.0\NovelGame.pdb
+C:\Users\Iraz\source\repos\NovelGame\NovelGame\obj\Debug\net8.0\NovelGame.genruntimeconfig.cache
+C:\Users\Iraz\source\repos\NovelGame\NovelGame\obj\Debug\net8.0\ref\NovelGame.dll
